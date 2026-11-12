@@ -1,0 +1,8 @@
+1. What is the difference between a cookie and a session?
+- A cookie is saved for a long time and remembers things between visits. A session lasts only while you’re browsing and ends when you close the browser.
+
+2. Where is each one stored (browser or server)?
+- A cookie is stored in the browser. A session is stored on the server.
+
+3. Why do we use prepared statements?
+- Prepared statements keep user input separate from the SQL command, so hackers can’t change the query (SQL injection).
